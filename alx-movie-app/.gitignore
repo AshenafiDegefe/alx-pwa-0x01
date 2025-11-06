@@ -51,3 +51,5 @@ hello.ts
 
 globals.d.ts 
 .env.local 
+
+.vercel
