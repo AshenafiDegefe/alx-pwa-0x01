@@ -48,6 +48,6 @@ README.md
 tsconfig.json 
 styles 
 hello.ts 
-_document.tsx 
+
 globals.d.ts 
 .env.local 
