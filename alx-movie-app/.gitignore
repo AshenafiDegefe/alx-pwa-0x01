@@ -39,7 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-public 
+
 eslint.config.mjs 
  
 package-lock.json 
