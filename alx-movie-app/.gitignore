@@ -41,7 +41,7 @@ yarn-error.log*
 next-env.d.ts
 public 
 eslint.config.mjs 
-next.config.ts 
+ 
 package-lock.json 
 postcss.config.mjs 
 README.md 
